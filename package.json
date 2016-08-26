@@ -1,0 +1,29 @@
+{
+  "name": "pyon-kit",
+  "version": "0.0.1",
+  "description": "sleight of hand",
+  "main": "pyon-kit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinDoughty/pyon-kit.git"
+  },
+  "keywords": [
+    "pyon",
+    "windowing",
+    "sleight",
+    "of",
+    "hand"
+  ],
+  "author": "Kevin Doughty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KevinDoughty/pyon-kit/issues"
+  },
+  "homepage": "https://github.com/KevinDoughty/pyon-kit#readme",
+  "dependencies": {
+    "pyon": "^0.0.13"
+  }
+}
